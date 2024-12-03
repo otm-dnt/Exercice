@@ -1,0 +1,14 @@
+{
+  "name": "exercice-defis-codage",
+  "version": "1.0.0",
+  "description": "Projet pour les défis de codage avec IA",
+  "main": "calcul.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
